@@ -1,0 +1,1 @@
+get_users = f"select user as u from MikoFerdinand808$algoritmos4us.users"
